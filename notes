@@ -1,0 +1,21 @@
+#things and people to look up
+Alex Stark, IMP 
+Lucas Pelkmans, ETH
+Eric van Nimwegen, Basel
+
+-ROC curves
+-Aseq - Mihaela Zavolan 
+-extract residuals from PCA analysis to plot barplots and 
+detect correlations for tRNA enzyme screen and C3PO data
+and gain insights into functional aspects or GO groups
+-pairwise covariance correlation and magnitude
+-use of scRNAseq as tool to identiy which cell type/class 
+is mostly affected by a regulator. tease out specificity effects
+-eQTLs
+-manhattan plots
+-tSNE 
+-diffusion maps
+-look up circadian/ceel cycle expression of TSN (Felix Naef papers)
+-nagative binomial correlation analysis to identify genes left and right of 
+a branch point/cluster (Satija talk)
+
